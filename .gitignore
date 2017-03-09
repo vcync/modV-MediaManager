@@ -6,8 +6,5 @@ node_modules
 /media/*
 !/media/.keep
 
-/media/default/*
-!/media/default/palette/
-
 npm-debug.log
 options.json
