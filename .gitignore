@@ -4,7 +4,7 @@ node_modules
 /binaries/
 
 /media/*
-!/media/default/
+!/media/.keep
 
 /media/default/*
 !/media/default/palette/
