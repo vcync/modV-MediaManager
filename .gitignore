@@ -1,0 +1,13 @@
+*.DS_Store
+/dist/
+node_modules
+/binaries/
+
+/media/*
+!/media/default/
+
+/media/default/*
+!/media/default/palette/
+
+npm-debug.log
+options.json
