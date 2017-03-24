@@ -1,0 +1,12 @@
+{
+  "libs": [
+    "browser"
+  ],
+  "plugins": {
+    "node": {},
+    "modules": {},
+    "es_modules": {},
+    "node_resolve": {},
+    "commonjs": {}
+  }
+}
