@@ -12,6 +12,7 @@
   "dependencies": {
     "animated-gif-detector": "^1.2.0",
     "chokidar": "^1.6.1",
+    "express": "^4.15.4",
     "ffbinaries": "^0.1.6",
     "fluent-ffmpeg": "^2.1.0",
     "mkdirp": "^0.5.1",
